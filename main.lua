@@ -7,7 +7,7 @@ window_height=720
 virtual_width=432
 virtual_height=243
 paddle_speed=200  
-
+--qwrqwrqwrqwrqw
 function love.load()
     love.graphics.setDefaultFilter('nearest','nearest')
     love.window.setTitle('pong')
